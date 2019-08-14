@@ -1,0 +1,15 @@
+main {
+  text-align: center;
+}
+
+.gif_box {
+  margin: 0 auto;
+  background-color: red;
+  width: 50vw;
+  height: 50vh;
+}
+
+#feeling_input {
+  width: 40vw;
+  height: 30
+}
