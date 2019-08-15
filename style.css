@@ -11,5 +11,6 @@ main {
 
 #feeling_input {
   width: 40vw;
-  height: 30
+  height: 3vh;
+  margin-bottom: 2em;
 }

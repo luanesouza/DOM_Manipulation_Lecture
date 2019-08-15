@@ -1,4 +1,6 @@
 console.log("js listening");
+console.log(API_KEY);
+
 
 let gif_box = document.querySelector(".gif_box");
 let section = document.querySelector("section");
@@ -9,7 +11,6 @@ let p = document.createElement('p');
 
 form.addEventListener("submit", function(event){
   event.preventDefault();
-  console.log();
   p.innerText = input.value;
 
 
